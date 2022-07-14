@@ -1,5 +1,5 @@
 clearbox-wrapper
-scikit-learn==0.24.1
+scikit-learn
 numpy
 pytest
 pandas
@@ -7,6 +7,6 @@ mlflow
 fastapi
 uvicorn
 dvc
-skl2onnx
+#skl2onnx
 fastapi 
 uvicorn[standard]
